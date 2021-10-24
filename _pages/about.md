@@ -8,8 +8,8 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>Computer Engineering</p>
-    <p>Department Sharif University of Technology</p>
+    <p>Computer Engineering Department</p>
+    <p>Sharif University of Technology</p>
     <p>Tehran, Iran</p>
   
 
