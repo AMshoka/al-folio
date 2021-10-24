@@ -3,8 +3,8 @@
 # -----------------------------------------------------------------------------
 
 title: AmirHossein Mohammadi # the website title (if blank, full name will be used instead)
-first_name: Amir 
-middle_name: Hossein
+first_name: AmirHossein
+middle_name: 
 last_name: Mohammadi
 email: ahmohammadi@ce.sharif.edu
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
