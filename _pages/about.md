@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: MSc student in Computer Architecture at <a href="http://www.en.sharif.edu/">Sharif University of Technology </a>
 
 profile:
   align: right
